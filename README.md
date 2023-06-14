@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Changelog
 1. First edit
+2. Second edit (auto-deploy turned off)
 
 ## Available Scripts
 
