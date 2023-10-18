@@ -19,10 +19,7 @@ function App() {
         <p>
           Welcome from Kinsta Static Site Hosting!
         </p>
-        <p>List Of Env Vars (including a few default):</p>
-        <div>
-          {renderEnvVars()}
-        </div>
+        <p>Edited version - 10.18.</p>
       </header>
     </div>
   );
